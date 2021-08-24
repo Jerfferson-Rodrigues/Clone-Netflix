@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e sites:
 - teste da chamada [REST test](https://resttesttest.com/)
 - Formatação do codigo [Json](http://jsonviewer.stack.hu/)
 
-# Instruçoes
+# Instruções
 
 * No terminal `prompt de Comando`, `Git bash` ou dentro do terminal `VS Code`
 * Abra o :open_file_folder: no terminal e execute:
