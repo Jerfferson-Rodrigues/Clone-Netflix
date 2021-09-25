@@ -7,7 +7,7 @@
 
 ##  :hammer_and_wrench: Tecnologias :
 
-Esse projeto foi desenvolvido com as seguintes tecnologias e sites:
+Projeto desenvolvido com as seguintes tecnologias e sites:
 
 - HTML
 - CSS
